@@ -5,6 +5,6 @@ There are a lot of use-cases for recommender systems. E-commerce stores use it t
 
 Kmeans and Cosine similarity were not used as one approach but as two different approaches here, and the results show that both suggest quite similar articles based on relatedness to what the user is currently reading. 
 
-This project was my climax for mini-projects on the Women Techsters fellowship.
+This project was my finale for mini-projects on the Women Techsters fellowship.
 
 Happy exploring!
